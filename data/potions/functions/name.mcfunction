@@ -1,0 +1,1 @@
+$data modify storage potions:macro Item.tag.display.Name set value "{\"translate\":\"want.$(id).$(type)\",\"fallback\":\"Magic Want\",\"with\":[\"[de_de]\",\"[en_us]\"],\"color\":\"dark_purple\",\"italic\":true}"

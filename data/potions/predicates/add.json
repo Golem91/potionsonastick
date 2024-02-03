@@ -1,0 +1,10 @@
+[
+  {
+    "condition": "minecraft:reference",
+    "name": "potions:stick"
+  },
+  {
+    "condition": "minecraft:reference",
+    "name": "potions:potion"
+  }
+]
