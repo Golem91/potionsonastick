@@ -1,0 +1,1 @@
+effect give @s slow_falling 240 1 false

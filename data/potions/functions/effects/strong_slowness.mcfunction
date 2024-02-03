@@ -1,0 +1,1 @@
+effect give @s slowness 20 4 false

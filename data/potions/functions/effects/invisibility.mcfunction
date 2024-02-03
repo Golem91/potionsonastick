@@ -1,0 +1,1 @@
+effect give @s invisibility 180 1 false

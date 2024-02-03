@@ -1,0 +1,1 @@
+effect give @s poison 90 1 false

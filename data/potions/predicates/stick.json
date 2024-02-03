@@ -1,4 +1,4 @@
-{
+ {
     "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
@@ -7,7 +7,11 @@
           "items": [
             "minecraft:warped_fungus_on_a_stick"
           ],
-          "nbt": "{CustomModelData:50}"
+          "nbt": "{CustomModelData:50}",
+          "durability": {
+            "min": 1,
+            "max": 100
+          }
         }
       }
     }

@@ -1,7 +1,7 @@
 tag @a remove add
 
 $execute if data storage potions:macro {Item:{tag:{Potion:[{type:"$(type)",id:"$(id)"}]}}} run tag @s add add
-#transfer NBT to marker for modification
+
 $execute unless entity @s[tag=add] run data modify storage potions:macro Item.tag.Potion append value {id: "$(id)", type:"$(type)", Count: 1b}
 
 execute unless entity @s[tag=add] run return 0

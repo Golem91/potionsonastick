@@ -1,0 +1,1 @@
+$data modify storage potions:macro Item.tag.display.Lore append value '[{"text":" $(Count) ","color":"dark_purple","italic":false},{"color":"white","translate":"want.$(id).$(type)","fallback":"Potion Name","italic":false}]'

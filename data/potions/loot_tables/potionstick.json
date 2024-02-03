@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:warped_fungus_on_a_stick",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Magic Want ()\",\"color\":\"dark_purple\",\"italic\":false}'},Damage:100,CustomModelData:50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
