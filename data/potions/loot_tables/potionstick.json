@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{display:{Name:'{\"text\":\"Magic Want ()\",\"color\":\"dark_purple\",\"italic\":false}'},Damage:100,CustomModelData:50}"
+              "tag": "{display:{Name:'{\"text\":\"Magic Wand ()\",\"color\":\"dark_purple\",\"italic\":false}'},Damage:100,CustomModelData:50}"
             }
           ]
         }
