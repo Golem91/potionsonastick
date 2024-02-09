@@ -5,6 +5,8 @@ This Datapack aims to make potions in Minecraft more useful, as they don't clutt
 
 For this pack to work properly, you need to download and install the [ResourcePack](https://github.com/Golem91/PotionOnAStickResources/releases/download/V1.1/potionsonastickresources.zip).
 
+This pack can be used with all Minecraft versions beginning with Snapshot 24w06a.
+
 # Usage:
 
 Hold potion in your offhand while holding the wand in your mainhand. Then jump or sneak to add it to the wand's "inventory".
