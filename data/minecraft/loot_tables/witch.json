@@ -178,7 +178,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "potions:potiononastick",
+          "name": "potions:potionstick",
           "functions": [
             {
               "function": "minecraft:set_count",
