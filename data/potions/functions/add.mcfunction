@@ -19,5 +19,4 @@ function potions:replace with storage potions:macro Item
 
 execute at @s run playsound minecraft:block.brewing_stand.brew player @s
 
-scoreboard players set @s damage 1
-item modify entity @s weapon.mainhand potions:damage
+function potions:damage

@@ -13,3 +13,4 @@ function potions:name with storage potions:macro Potion
 
 item replace entity @s weapon.offhand with minecraft:air
 function potions:replace with storage potions:macro Item
+function potions:damage
