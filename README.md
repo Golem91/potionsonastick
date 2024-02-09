@@ -1,3 +1,4 @@
+![Version Badge](https://img.shields.io/badge/Version-1.21-blue)
 
 # PotionsOnAStick
 
@@ -5,9 +6,7 @@ This Datapack aims to make potions in Minecraft more useful, as they don't clutt
 
 For this pack to work properly, you need to download and install the [ResourcePack](https://github.com/Golem91/PotionOnAStickResources/releases/download/V1.1/potionsonastickresources.zip).
 
-This pack can be used with all Minecraft versions beginning with Snapshot ![Version Badge](https://img.shields.io/badge/Version-1.21-green).
-
-
+This pack can be used with all Minecraft versions beginning with Snapshot 24w06a.
 
 # Usage:
 
