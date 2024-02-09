@@ -7,7 +7,7 @@ For this Pack to work properly, you need to download and install the [ResourcePa
 
 # Usage:
 
-Hold potion in you offhand while holding the Wand in your Mainhand. Then jump or sneak to add it to the sticks "inventory"
+Hold potion in your offhand while holding the Wand in your mainhand. Then jump or sneak to add it to the sticks "inventory"
 
 Transfer wand into your offhand (eg. by pressing F) to cycle between stored potions.
 
@@ -27,7 +27,7 @@ Alternatively it gets droped when you kill a Witch.
 The Name of the currently selected potion as well as the count of the potions of that very type is displayed right next to the name.
 
 Below are shown up to 12 additional potions with their count in front of them.
-They are displayed in the order they will be loaded as primary when switching to the next one.
+They are displayed in the order they will be loaded when switching to the next one.
 
 After 12 Potions it will show the number of additional potions also loaded into the Wand.
 
