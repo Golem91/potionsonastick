@@ -3,7 +3,7 @@
 
 This Datapack aims to make potions in Minecraft more useful, as they don't clutter your inventory anymore.
 
-For this Pack to work properly, you need to download and install the [ResourcePack](https://github.com/Golem91/PotionOnAStickResources/releases/download/V1.1/potionsonastickresources.zip).
+For this pack to work properly, you need to download and install the [ResourcePack](https://github.com/Golem91/PotionOnAStickResources/releases/download/V1.1/potionsonastickresources.zip).
 
 # Usage:
 
