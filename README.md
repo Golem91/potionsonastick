@@ -7,7 +7,7 @@ For this pack to work properly, you need to download and install the [ResourcePa
 
 # Usage:
 
-Hold potion in your offhand while holding the wand in your mainhand. Then jump or sneak to add it to the sticks "inventory"
+Hold potion in your offhand while holding the wand in your mainhand. Then jump or sneak to add it to the wand's "inventory"
 
 Transfer wand into your offhand (eg. by pressing F) to cycle between stored potions.
 
