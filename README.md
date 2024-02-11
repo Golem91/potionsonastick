@@ -19,13 +19,13 @@ Right click wand to use a potion. Throwable potions will be thrown, otherwise yo
 # Crafting:
 As of v1.0 you can craft the wand using 2 Sticks, 2 Amethyst Shards and 1 Blaze Rod:
 
-![image of the recipe](https://github.com/Golem91/potionsonastick/blob/main/recipe.png?raw=true)
+<img src="https://github.com/Golem91/potionsonastick/blob/main/recipe.png?raw=true" alt="drawing" width="400"/>
 
 Alternatively it gets droped when you kill a witch.
 
 # Display:
 
-![image of the displaying of the potions](https://github.com/Golem91/potionsonastick/blob/main/display.png?raw=true)
+<img src="https://github.com/Golem91/potionsonastick/blob/main/display.png?raw=true" alt="drawing" width="400"/>
 
 The name of the currently selected potion as well as the count of the potions of that very type is displayed right next to the name.
 
@@ -38,11 +38,7 @@ You can load up to 100 potions in total into one wand. You can also have multipl
 
 You can also see the type of potion currently loaded on the side of the wand.
 
-![image](https://github.com/Golem91/potionsonastick/blob/main/normal.png?raw=true)
-
-![image](https://github.com/Golem91/potionsonastick/blob/main/splash.png?raw=true)
-
-![image](https://github.com/Golem91/potionsonastick/blob/main/lingering.png?raw=true)
+<img src="https://github.com/Golem91/potionsonastick/blob/main/normal.png?raw=true" alt="drawing" width="300"/> <img src="https://github.com/Golem91/potionsonastick/blob/main/splash.png?raw=true" alt="drawing" width="300"/> <img src="https://github.com/Golem91/potionsonastick/blob/main/lingering.png?raw=true" alt="drawing" width="300"/>
 
 # Credits
 Everything of the Code has been done by me (DerGolem91).
