@@ -9,6 +9,7 @@ data remove storage potions:macro Item.tag.Potion.[0]
 
 data modify storage potions:macro Potion set from storage potions:macro Item.tag.Potion.[0]
 function potions:name with storage potions:macro Potion
+function potions:texture
 
 
 item replace entity @s weapon.offhand with minecraft:air

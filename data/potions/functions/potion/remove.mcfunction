@@ -13,6 +13,8 @@ execute if data storage potions:macro {Potion:{Count:0b}} run data remove storag
 
 data modify storage potions:macro Potion set from storage potions:macro Item.tag.Potion.[0]
 function potions:name with storage potions:macro Potion
+function potions:texture
+execute unless data storage potions:macro Item.tag.Potion.[0] run data modify storage potions:macro Item.tag.CustomModelData set value 10000
 
 #transfer NBT back to player
 item replace entity @s weapon.offhand with minecraft:air

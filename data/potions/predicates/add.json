@@ -16,7 +16,7 @@
             "min": 0,
             "max": 99
           },
-          "nbt": "{CustomModelData:50}"
+          "nbt": "{MagicWand:true}"
         }
       }
     }

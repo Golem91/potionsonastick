@@ -7,7 +7,7 @@
           "items": [
             "minecraft:warped_fungus_on_a_stick"
           ],
-          "nbt": "{CustomModelData:50}",
+          "nbt": "{MagicWand:true}",
           "durability": {
             "min": 1,
             "max": 100

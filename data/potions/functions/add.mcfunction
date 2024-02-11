@@ -12,6 +12,7 @@ function potions:append with storage potions:macro Potion
 
 data modify storage potions:macro Potion set from storage potions:macro Item.tag.Potion.[0]
 function potions:name with storage potions:macro Potion
+function potions:texture
 
 #transfer NBT back to player
 item replace entity @s weapon.offhand with minecraft:air
