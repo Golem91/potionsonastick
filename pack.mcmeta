@@ -1,6 +1,10 @@
 {
   "pack": {
     "pack_format": 31,
-    "description": "Put potions on the \"stick\" to save up space"
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 31
+    },
+    "description": "Load potions onto the Magic Wand to save up inventory space"
   }
 }

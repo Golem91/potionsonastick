@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:command_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:warped_fungus_on_a_stick",
+        "CustomModelData": 50,
+        "count": 1
+    }
+}
