@@ -36,6 +36,14 @@ After 12 Potions it will show the number of additional potions also loaded into 
 
 You can load up to 100 potions in total into one wand. You can also have multiple Wands if you wish to.
 
+You can also see the type of potion currently loaded on the side of the wand.
+
+![image](https://github.com/Golem91/potionsonastick/blob/main/normal.png?raw=true)
+
+![image](https://github.com/Golem91/potionsonastick/blob/main/splash.png?raw=true)
+
+![image](https://github.com/Golem91/potionsonastick/blob/main/lingering.png?raw=true)
+
 # Credits
 Everything of the Code has been done by me (DerGolem91).
 
