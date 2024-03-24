@@ -170,23 +170,18 @@
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
+        },
         {
           "type": "minecraft:loot_table",
-          "name": "potions:potionstick",
+          "weight": 1,
+          "value": "potions:potionstick",
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 1
-            },
-            {
-              "function": "minecraft:looting_enchant",
-              "count": 2
+              "count": {
+                "min": 1,
+                "max": 1
+              }
             }
           ]
         }
