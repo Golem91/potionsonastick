@@ -1,7 +1,15 @@
 [
   {
-    "condition": "minecraft:reference",
-    "name": "potions:potion"
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "offhand": {
+          "tag": "minecraft:potions",
+          "count": 1
+        }
+      }
+    }
   },
   {
     "condition": "minecraft:entity_properties",
@@ -12,6 +20,7 @@
           "items": [
             "minecraft:warped_fungus_on_a_stick"
           ],
+          "count": 1,
           "durability": {
             "min": 0,
             "max": 99
@@ -20,5 +29,5 @@
         }
       }
     }
-  }  
+  }
 ]

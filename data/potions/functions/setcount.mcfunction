@@ -1,1 +1,1 @@
-$data modify storage potions:macro Item.tag.display.Lore append value '[{"text":"+ $(Count) More ...","color":"green","italic":false}]'
+$data modify storage potions:macro Item.components."minecraft:lore" append value '[{"text":"+ $(count) More ...","color":"green","italic":false}]'

@@ -1,10 +1,6 @@
 {
   "pack": {
-    "pack_format": 31,
-    "supported_formats": {
-      "min_inclusive": 18,
-      "max_inclusive": 31
-    },
+    "pack_format": 36,
     "description": "Load potions onto the Magic Wand to save up inventory space"
   }
 }

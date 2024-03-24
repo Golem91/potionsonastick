@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "X/X",
+      " O ",
+      " O "
+    ],
+    "key": {
+      "X": {"item": "minecraft:amethyst_shard"},
+      "O": {"item": "minecraft:stick"},
+      "/": {"item": "minecraft:blaze_rod"}
+    },
+    "result": {
+      "id": "minecraft:warped_fungus_on_a_stick",
+      "components": {
+        "custom_model_data": 10000, "damage": 100, "custom_name": "[{\"text\":\"Magic Wand ()\",\"color\":\"dark_purple\",\"italic\":false}]", "minecraft:custom_data":{"MagicWand":true}
+      }
+    }
+  }

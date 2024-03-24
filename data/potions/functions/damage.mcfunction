@@ -1,206 +1,206 @@
 scoreboard players set @s damage 0
 
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[0].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[0].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[1].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[1].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[2].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[2].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[3].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[3].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[4].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[4].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[5].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[5].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[6].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[6].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[7].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[7].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[8].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[8].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[9].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[9].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[10].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[10].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[11].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[11].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[12].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[12].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[13].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[13].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[14].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[14].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[15].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[15].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[16].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[16].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[17].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[17].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[18].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[18].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[19].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[19].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[20].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[20].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[21].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[21].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[22].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[22].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[23].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[23].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[24].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[24].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[25].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[25].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[26].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[26].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[27].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[27].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[28].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[28].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[29].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[29].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[30].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[30].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[31].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[31].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[32].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[32].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[33].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[33].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[34].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[34].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[35].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[35].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[36].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[36].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[37].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[37].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[38].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[38].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[39].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[39].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[40].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[40].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[41].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[41].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[42].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[42].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[43].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[43].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[44].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[44].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[45].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[45].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[46].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[46].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[47].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[47].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[48].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[48].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[49].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[49].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[50].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[50].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[51].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[51].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[52].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[52].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[53].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[53].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[54].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[54].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[55].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[55].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[56].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[56].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[57].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[57].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[58].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[58].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[59].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[59].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[60].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[60].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[61].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[61].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[62].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[62].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[63].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[63].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[64].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[64].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[65].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[65].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[66].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[66].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[67].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[67].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[68].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[68].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[69].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[69].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[70].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[70].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[71].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[71].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[72].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[72].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[73].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[73].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[74].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[74].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[75].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[75].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[76].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[76].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[77].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[77].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[78].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[78].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[79].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[79].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[80].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[80].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[81].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[81].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[82].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[82].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[83].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[83].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[84].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[84].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[85].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[85].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[86].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[86].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[87].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[87].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[88].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[88].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[89].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[89].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[90].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[90].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[91].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[91].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[92].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[92].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[93].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[93].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[94].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[94].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[95].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[95].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[96].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[96].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[97].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[97].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[98].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[98].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[99].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[99].count
 scoreboard players operation @s damage += .temp damage
-execute store result score .temp damage run data get entity @s SelectedItem.tag.Potion.[100].Count
+execute store result score .temp damage run data get entity @s SelectedItem.components."minecraft:custom_data".Potions.[100].count
 scoreboard players operation @s damage += .temp damage
 
 item modify entity @s weapon.mainhand potions:damage
